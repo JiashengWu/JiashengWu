@@ -1,7 +1,7 @@
 ### <img src="https://github.com/JiashengWu/JiashengWu/blob/master/img/hi.gif" width="30px"> Hi, I'm Jiasheng
 
 [![Resume Views](https://komarev.com/ghpvc/?username=JiashengWu&label=Resume+Views&style=flat&color=838689)](https://jiashengwu.com/)
-[![GitHub Badge](https://img.shields.io/badge/-JiashengWu-181717?style=flat&logo=github&logoColor=white)](https://github.com/JiashengWu/)
+[![GitHub Badge](https://img.shields.io/badge/-jiashengwu-181717?style=flat&logo=github&logoColor=white)](https://github.com/JiashengWu/)
 [![Linkedin Badge](https://img.shields.io/badge/-jiashengwu-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiashengwu/)
 [![Gmail Badge](https://img.shields.io/badge/-jwu.sde@gmail.com-d14836?style=flat&logo=gmail&logoColor=white)](mailto:jwu.sde@gmail.com)
 

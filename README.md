@@ -4,6 +4,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-jiashengwu-181717?style=flat&logo=github&logoColor=white)](https://github.com/JiashengWu/)
 [![Linkedin Badge](https://img.shields.io/badge/-jiashengwu-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiashengwu/)
 [![Gmail Badge](https://img.shields.io/badge/-jwu.sde@gmail.com-d14836?style=flat&logo=gmail&logoColor=white)](mailto:jwu.sde@gmail.com)
+[![Amazon Badge](https://img.shields.io/badge/-Software%20Engineer-ff9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.com/)
 
 <!--
 **JiashengWu/JiashengWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
